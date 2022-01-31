@@ -1,4 +1,4 @@
-This folder contains the slides and example codes from the half-day training workshop on the theory and practice of the Finite Element Method, organized by the SofTMech Training committee hosted a (virtual) on Friday Jan 28th 2022. The recorded talks can be found at [here]{https://www.youtube.com/watch?v=-wjvBNZsh1Y&list=PLoqSL0PA5Q-zFTGnPqKqWQcW8jCIKZZO7&index=2&t=53s}
+This folder contains the slides and example codes from the half-day training workshop on the theory and practice of the Finite Element Method, organized by the SofTMech Training committee hosted a (virtual) on Friday Jan 28th 2022. The recorded talks can be found at [here](https://www.youtube.com/watch?v=-wjvBNZsh1Y&list=PLoqSL0PA5Q-zFTGnPqKqWQcW8jCIKZZO7&index=2&t=53s)
 
 * [Talk 1] Dr Peter Stewart: Theory of the finite element method for PDEs
 
