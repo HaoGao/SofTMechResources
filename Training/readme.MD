@@ -1,0 +1,1 @@
+This folder contains materials from various training events organized by the SofTMech training committee.
